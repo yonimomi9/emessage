@@ -1,0 +1,14 @@
+INFO:root:Starting to listen - max connections: 2
+INFO:root:Incoming connection from ('127.0.0.1', 55634)
+INFO:root:Incoming connection from ('127.0.0.1', 55638)
+INFO:root:New connection from: guy
+INFO:root:New connection from: yona
+INFO:root:Client guy has disconnected.
+INFO:root:Incoming connection from ('127.0.0.1', 52354)
+INFO:root:New connection from: ori beige
+INFO:root:Client ori beige has disconnected.
+INFO:root:Client yona has disconnected.
+INFO:root:Incoming connection from ('127.0.0.1', 58858)
+WARNING:root:Login error: not enough values to unpack (expected 2, got 1)
+INFO:root:Incoming connection from ('127.0.0.1', 34696)
+WARNING:root:Login error: not enough values to unpack (expected 2, got 1)

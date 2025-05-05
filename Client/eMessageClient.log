@@ -1,0 +1,8 @@
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 62 2639
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'Photoshop ICC profile'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 2713 16493
+DEBUG:PIL.PngImagePlugin:STREAM b'cHRM' 19218 32
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 19262 275228
