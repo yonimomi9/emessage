@@ -86,5 +86,5 @@ python3 test.py
 ***Further updates and patches are coming soon!***
 ***Stay tuned 😎*** 
 
-**Author:** Yehonatan  
+**Author:** Jonathan Tchebiner  
 **Enjoy chatting 🟢**
